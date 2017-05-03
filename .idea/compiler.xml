@@ -14,13 +14,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="shopshop-common" target="1.7" />
-      <module name="shopshop-manager" target="1.7" />
-      <module name="shopshop-manager-mapper" target="1.7" />
-      <module name="shopshop-manager-pojo" target="1.7" />
-      <module name="shopshop-manager-service" target="1.7" />
-      <module name="shopshop-manager-web" target="1.7" />
-      <module name="shopshop-parent" target="1.7" />
+      <module name="shopshop-common" target="1.8" />
+      <module name="shopshop-manager" target="1.8" />
+      <module name="shopshop-manager-mapper" target="1.8" />
+      <module name="shopshop-manager-pojo" target="1.8" />
+      <module name="shopshop-manager-service" target="1.8" />
+      <module name="shopshop-manager-web" target="1.8" />
+      <module name="shopshop-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
