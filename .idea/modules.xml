@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../shopshop-common/shopshop-common.iml" filepath="$PROJECT_DIR$/../shopshop-common/shopshop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopshop-manager/shopshop-manager.iml" filepath="$PROJECT_DIR$/../shopshop-manager/shopshop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopshop-manager/shopshop-manager-mapper/shopshop-manager-mapper.iml" filepath="$PROJECT_DIR$/../shopshop-manager/shopshop-manager-mapper/shopshop-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopshop-manager/shopshop-manager-pojo/shopshop-manager-pojo.iml" filepath="$PROJECT_DIR$/../shopshop-manager/shopshop-manager-pojo/shopshop-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopshop-manager/shopshop-manager-service/shopshop-manager-service.iml" filepath="$PROJECT_DIR$/../shopshop-manager/shopshop-manager-service/shopshop-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopshop-manager/shopshop-manager-web/shopshop-manager-web.iml" filepath="$PROJECT_DIR$/../shopshop-manager/shopshop-manager-web/shopshop-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopshop-parent.iml" filepath="$PROJECT_DIR$/shopshop-parent.iml" />
+    </modules>
+  </component>
+</project>
